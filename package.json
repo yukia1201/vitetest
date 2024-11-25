@@ -1,0 +1,18 @@
+{
+  "name": "vitetest",
+  "version": "1.0.0",
+  "description": "測試vite建立網站",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.4.11"
+  }
+}
