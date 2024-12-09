@@ -1,2 +1,13 @@
+// Required
+@import "../node_modules/bootstrap/scss/functions";
+
+// Default variable overrides
+$body-bg: #000;
+$body-color: #ffffff;
+
+$primary: gold;
+$secndary: pink;
+$success:aquamarine;
+
 // Import all of Bootstrap's CSS
 @import "bootstrap/scss/bootstrap";
